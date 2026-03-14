@@ -1,0 +1,16 @@
+order_id,customer_id,product_id,category,order_date,quantity,total_amount,region
+1001,1,P001,Electronics,2024-01-05,1,499.99,North
+1002,2,P002,Clothing,2024-01-07,2,79.98,South
+1003,3,P003,Books,2024-01-10,1,15.99,East
+1004,1,P004,Home & Garden,2024-01-12,3,89.97,West
+1005,4,P005,Sports,2024-01-15,1,59.99,North
+1006,2,P001,Electronics,2024-02-01,1,499.99,South
+1007,5,P006,Electronics,2024-02-03,2,999.98,East
+1008,3,P007,Clothing,2024-02-05,1,39.99,West
+1009,6,P008,Books,2024-02-08,4,63.96,North
+1010,7,P009,Home & Garden,2024-02-10,2,54.00,South
+1011,8,P010,Sports,2024-03-01,1,89.99,East
+1012,4,P002,Clothing,2024-03-03,3,119.97,West
+1013,2,P003,Books,2024-03-05,2,31.98,North
+1014,9,P011,Electronics,2024-03-08,1,799.99,South
+1015,10,P012,Home & Garden,2024-03-10,5,125.00,East

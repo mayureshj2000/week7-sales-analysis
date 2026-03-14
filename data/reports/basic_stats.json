@@ -1,0 +1,11 @@
+{
+  "total_sales": 3570.7699999999995,
+  "average_order": 238.0513333333333,
+  "total_orders": 15,
+  "unique_customers": 10,
+  "unique_products": 12,
+  "date_range": {
+    "start": "2024-01-05",
+    "end": "2024-03-10"
+  }
+}
